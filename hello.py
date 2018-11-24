@@ -1,12 +1,10 @@
-#akdsf
+num = input()
 
-
-print("Below my is there a comment? ")
-"""shauryaw
-astewat
-ete
-y
-eyetuw
-i"""
-
-print("hello world")
+mul = 1
+dec = 0
+#print(type(num[::-1][0]))
+for x in num[::-1]:
+    dec += int(x) * mul
+    mul = mul*2
+    
+print(dec)
