@@ -3,6 +3,6 @@
 
 ---
 ## Resources 
-- udemy
-- youtube - Durga Sir
+- udemy by https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+- youtube - Durga Sir 
 - 
