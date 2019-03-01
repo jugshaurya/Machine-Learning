@@ -1,6 +1,6 @@
 # Machine Learning
 
-# Wanna Learn ML_Libraries like numpy,pandas.... 
+# Wanna Learn Python from Basics To Advance 
 -------------------
 #### Visit
-https://github.com/jugshaurya/Learn-Python/tree/master/Learn_ML_libraries
+https://github.com/jugshaurya/Learn-Python
