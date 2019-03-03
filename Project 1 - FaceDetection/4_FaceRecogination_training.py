@@ -20,7 +20,7 @@ face_detector = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
 
 nth_frame = 1 # which frame we are curerntly looking at
 face_data = [] # storing face_data
-store_path = './captured_face_data/' # ./ is for curent folder
+store_path = './Captured_face_data_for_training/' # ./ is for curent folder
 human = input('Enter the name of the person  : ')
 while True:
 
@@ -47,8 +47,8 @@ while True:
 			cv2.imshow('Captured Gray Section', face_section)  # showing what are we storing exactly	
 
 	nth_frame += 1
-	cv2.imshow('Recording' , frame)
 
+	cv2.imshow('Recording' , frame)
 	key_pressed  = cv2.waitKey(1)
 	if key_pressed == ord('q') or key_pressed == ord('Q'):
 		break
