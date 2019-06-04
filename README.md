@@ -12,15 +12,17 @@ Topics I : (Inside Learn ML Folder)
       - Stochastic vs Mini-Batch Gradient Descent
       - Closed Normal Form of LR
       - Locally weighted Regression
-      - Assignment 1 -> Hardwork Pays OFF(Coding Blocks Prateek Bhaiya)
+      - Assignment 1 -> Hardwork Pays OFF(Coding Blocks)
       - Assignment 2 -> Air Quality Prediction(Kaggle)
-      
-      
       
     - Classification
       - Logistic Regression(Theory + Code)
       - Naive Bayes (Theory + Code)
-      - Assignment 3 - Chemicals (Coding Blocks Prateek Bhaiya)
+      - Assignment 3 - Chemicals (Coding Blocks)
+      - Types of Naive Bayes(Multinomial,Multivariate-Bernoulli ,Gaussian NB) 
+      - Multinomial Naive Bayes for Text Classification
+      - Applying Multinomial NB on MNIST data Sklearn
+      - Assignment 4 - IMDB Movie Rating Prediction based on review(Coding Blocks)
       
     - Both Regression and Classification
       - KNN Classifier
